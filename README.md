@@ -14,4 +14,6 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-123456 tha's how many time's I have tried this before I got it right. Thank You! by Tamzidul Matin. 
+123456 tha's how many time's I have tried this before I got it right. Thank You! by Tamzidul Matin.
+
+Jenkin's server was configured for email notifcitaions. After this commit emails should go to tmatin100@gmail.com. Thank You! T.M.  
