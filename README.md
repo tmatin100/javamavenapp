@@ -16,4 +16,6 @@ the "Deliver" stage of your Pipeline.
 
 123456 tha's how many time's I have tried this before I got it right. Thank You! by Tamzidul Matin.
 
-Jenkin's server was configured for email notifcitaions. After this commit emails should go to tmatin100@gmail.com. Thank You! T.M.  
+Jenkin's server was configured for email notifcitaions. After this commit emails should go to tmatin100@gmail.com. Thank You! 
+
+by Tamzidul Matin   
